@@ -34,5 +34,3 @@ This project is a relational database system designed to automate and manage the
 3. Insert sample data (if provided)
 4. Execute queries for different modules
 
-
-bhi bana deta hoon 👍
